@@ -963,7 +963,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	line-height: 2.4rem;
 }
 .skill-bars li .progress {
-	background: #313131;
+	background: #9b7203;
 	position: relative;
 	height: 100%;
 }
@@ -976,7 +976,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: white;
 	font-size: 1.1rem;
 	line-height: 1;
-	background: #313131;
+	background: #9b7203;
 	padding: .6rem .6rem;
 	border-radius: 3px;
 }
@@ -987,7 +987,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-left: -5px;
 	border-right: 5px solid transparent;
 	border-left: 5px solid transparent;
-	border-top: 5px solid #313131;
+	border-top: 5px solid #9b7203;
 	content: "";
 }
 
@@ -1105,7 +1105,7 @@ header .top-bar {
 header .logo {
 	float: left;
 	margin-left: 20px;
-	margin-right: 20px;
+	margin-right: 30px;
 	margin-top: 5px;
 	position: relative;
 }
