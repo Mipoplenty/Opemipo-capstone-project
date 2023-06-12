@@ -1020,10 +1020,10 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ------------------------------------------------------------------- 
  */
 .grey-section {
-	background: #ebebeb;
+	background: #ecd094;
 }
 .grey-section p.lead {
-	color: #7d7d7d;
+	color: #3d3c3c;
 }
 .section-intro {
 	max-width: 700px;
@@ -1637,8 +1637,8 @@ header .logo a {
 }
 #resume .timeline-wrap {
 	position: relative;
-	margin-top: 1.5rem;
-	margin-bottom: 6rem;
+	margin-top: 2rem;
+	margin-bottom: 7rem;
 }
 #resume .timeline-wrap::before {
 	content: "";
@@ -1685,7 +1685,7 @@ header .logo a {
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #888888;
+	color: #383838;
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -1693,7 +1693,7 @@ header .logo a {
 }
 #resume .timeline-content h4 {
 	position: relative;
-	padding-bottom: 1.8rem;
+	padding-bottom: 7rem;
 }
 #resume .timeline-content h4::after {
 	content: "";
@@ -2510,7 +2510,7 @@ footer .social {
 footer .footer-social {
 	display: inline-block;
 	font-size: 2.1rem;
-	margin: 0;
+	margin: 2rem 0 0 0;
 	padding: 0;
 	position: relative;
 	top: -.3rem;
