@@ -1,13 +1,26 @@
 
 ==================================================================================================
 
-KARDS is a modern and clean personal vCard website template. It has many cool features found
-in premium templates. It has timeline items, stats section, skillbars, working ajax form,
-frontend form validation, a portfolio section to showcase your works and many more. It looks 
-great on all devices from mobile to desktop. It's also retina ready so your site will look 
-crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
-and portfolio website.
+This is a project contains the source code and assets for my personal portfolio website. 
+The purpose of this website is to showcase my skills, projects, and achievements to my coaches, potential employers, clients, and collaborators. 
+It serves as an online representation of my work and provides a platform to share my professional journey.
 
+Features:
+Home: An introduction to who I am, my background, areas of expertise and page links to 'About me'
+Portfolio: A showcase of my past and current projects, including descriptions, screenshots, and links.
+About: An overview of my area of expertise, technical skills, highlighting the programming languages, frameworks, and tools I'm proficient in.
+Resume: A downloadable PDF version of my resume, providing more detailed information about my work experience and education.
+Contact: A contact form for visitors to get in touch with me for professional inquiries or collaborations. Including the links to my social media handles
+Responsive Design: The website is fully responsive and optimized for various screen sizes and devices.
+
+Technologies Used:
+HTML5 and CSS3: Building the structure and styling of the website.
+JavaScript: Implementing interactivity and dynamic elements.
+Bootstrap: Utilizing the framework for responsive design and pre-built components.
+MediaQuery: Enhancing functionality and simplifying DOM manipulation.
+Git: Version control and collaboration.
+GitHub Pages: Hosting the website and enabling easy deployment.
+Netlify: Hosting the website and enabling easy deployment.
 ==================================================================================================
 
 
