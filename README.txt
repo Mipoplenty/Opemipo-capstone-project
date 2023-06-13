@@ -17,7 +17,7 @@ Technologies Used:
 HTML5 and CSS3: Building the structure and styling of the website.
 JavaScript: Implementing interactivity and dynamic elements.
 Bootstrap: Utilizing the framework for responsive design and pre-built components.
-MediaQuery: Enhancing functionality and simplifying DOM manipulation.
+JQuery: Enhancing functionality and simplifying DOM manipulation.
 Git: Version control and collaboration.
 GitHub Pages: Hosting the website and enabling easy deployment.
 Netlify: Hosting the website and enabling easy deployment.
