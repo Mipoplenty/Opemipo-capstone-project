@@ -1,7 +1,7 @@
 
 ==================================================================================================
 
-This is a project contains the source code and assets for my personal portfolio website. 
+This project contains the source code and assets for my personal portfolio website. 
 The purpose of this website is to showcase my skills, projects, and achievements to my coaches, potential employers, clients, and collaborators. 
 It serves as an online representation of my work and provides a platform to share my professional journey.
 
@@ -13,6 +13,8 @@ Resume: A downloadable PDF version of my resume, providing more detailed informa
 Contact: A contact form for visitors to get in touch with me for professional inquiries or collaborations. Including the links to my social media handles
 Responsive Design: The website is fully responsive and optimized for various screen sizes and devices.
 
+-----------------------------------------------------------------------------------------------------
+
 Technologies Used:
 HTML5 and CSS3: Building the structure and styling of the website.
 JavaScript: Implementing interactivity and dynamic elements.
@@ -22,7 +24,6 @@ Git: Version control and collaboration.
 GitHub Pages: Hosting the website and enabling easy deployment.
 Netlify: Hosting the website and enabling easy deployment.
 ==================================================================================================
-
 
 LICENSE:
 KARDS is released under the Creative Commons Attribution 3.0 License
@@ -50,56 +51,7 @@ Attribution:
    your site. We prefer the footer credit that comes with the template but you are still 
    free to move it somewhere else.
 
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since KARDS is distributed for free, support is not offered. KARDS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website(http://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------------------------------
 
 SOURCES AND CREDITS:
 
@@ -138,6 +90,6 @@ Javascript Files:
 --------------------------------------------------------------------------------------------------------- 
 
 
-Thanks for downloading from Styleshout :)
+Thanks for viewing my portfolio
   
 
